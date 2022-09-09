@@ -62,7 +62,7 @@ Numbered for reference.
 
 24\. Shakespeare has a famous literary device called The Primrose Path. The path is decorated pleasantly with primroses that tricks a character to go down the path which leads to a bad place.
 
-25\. The analogy here is that cryptocurrencies, whether by design or usurpation, and despite any good intentions, may lead the world into monetary, dystopian panopticon without even the relative freedom of silver, gold, and cash. Cryptocurrencies may be normalizing thought leaders, institutions, and the general public to accept a Central Bank Digital Currency, a global digital currency, or one or more governments may simply take over the most popular digital currency, assert majority, and modify it to its needs. Cryptocurrencies may inadvertently kill or significantly reduce the value of legitimately decentralized alternatives such as silver, gold, and cash (despite their flaws).
+25\. The analogy here is that cryptocurrencies, whether by design or usurpation, and despite any good intentions, may lead the world into a monetary, dystopian panopticon without even the relative freedom of silver, gold, and cash. Cryptocurrencies may be normalizing thought leaders, institutions, and the general public to accept a Central Bank Digital Currency, a global digital currency, or one or more governments may simply take over the most popular digital currency, assert majority, and modify it to its needs. Cryptocurrencies may inadvertently kill or significantly reduce the value of legitimately decentralized alternatives such as silver, gold, and cash (despite their flaws).
 
 ## Summary
 
