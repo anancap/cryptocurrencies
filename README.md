@@ -28,7 +28,7 @@ Numbered for reference.
 
 12\. Cryptocurrencies have essentially no weight and they're easy to "take" across borders as one only needs a small digital file that can fit on a USB stick (or stored on a remote computer), and a short password.
 
-13\. To achieve consensus of the correct ledger without trust, a majority must approve transactions ([Fischer et al., 1985](https://doi.org/10.1145/3149.214121)). This is done through various mechanisms such as proof-of-work, proof-of-stake, etc. ([Xiao et al., 2020](https://doi.org/10.1109/COMST.2020.2969706)). Bitcoin, the most popular cryptocurrency, states this majoritarian requirement simply: "If a majority of CPU power is controlled by honest nodes" ([Nakamoto, 2008](https://bitcoin.org/bitcoin.pdf)). Similar majoritarian requirements apply to **all** cryptocurrencies with a public ledger ([Fischer et al., 1985](https://doi.org/10.1145/3149.214121)).
+13\. To achieve consensus of the correct ledger without trust, a majority must approve transactions ([Fischer et al., 1985](https://doi.org/10.1145/3149.214121)). This is done through various mechanisms such as proof-of-work, proof-of-stake, etc. ([Xiao et al., 2020](https://doi.org/10.1109/COMST.2020.2969706)). Bitcoin, the most popular cryptocurrency, states this majoritarian requirement simply: "If a majority of CPU power is controlled by honest nodes" ([Nakamoto, 2008](https://bitcoin.org/bitcoin.pdf)). Similar majoritarian requirements apply to **all** cryptocurrencies with a public ledger ([Fischer et al., 1985](https://doi.org/10.1145/3149.214121)). The so-called "50%+1" problem is not just about double-spending, but applies to the entire cryptocurrency, including its protocol.
 
 13\. Cryptocurrencies hope that a combination of technical countermeasures and market incentives will disallow governments from asserting control as they did with gold and silver.
 
@@ -36,9 +36,9 @@ Numbered for reference.
 
 ## Critique 1: Cryptocurrencies are not decentralized
 
-15\. The claim that cryptocurrencies are decentralized is strange. A cryptocurrency transaction requires a third party to add to the ledger, which seems strictly worse than gold, silver, and even cash.
+15\. The claim that cryptocurrencies are decentralized is strange. A cryptocurrency transaction requires a third party to add to the ledger, which seems strictly worse than gold, silver, and even cash. And not just any individual third party but a majority of enforcers of the cryptocurrency.
 
-16\. Perhaps one can argue that the value of cryptocurrencies is less centralized than government money, but market value is irrelevant if transactions can be denied. This is most obvious in the case of a situation without electricity or internet, but transactions can also be denied consciously (e.g. [The DAO Ethereum fork](https://en.wikipedia.org/wiki/The_DAO_(organization))). The whole purpose of decentralization is to avoid such restrictions.
+16\. Perhaps one can argue that the value itself is less centralized than government money, but market value is irrelevant if transactions can be denied. This is most obvious in the case of a situation without electricity or internet, but transactions can also be denied consciously (e.g. [The DAO Ethereum fork](https://en.wikipedia.org/wiki/The_DAO_(organization))). The whole purpose of decentralization is to avoid such restrictions.
 
 ## Critique 2: Successful cryptocurrencies will inevitably be democracies
 
@@ -56,13 +56,13 @@ Numbered for reference.
 
 22\. Cryptocurrency technical countermeasures will fail if governments are truly threatened by a cryptocurrency due to governments' comprehensive and coordinated control of underlying physical land (see point 10). There is nothing magical about cryptocurrencies and the digital world. The ledger exists as files on a set of computers. Those computers are connected using the internet. A cryptocurrency wallet must have IP addresses of those computers and must have a path to those IP addresses. Besides the question of how a user gets these IP addresses, as China has demonstrated with its Great Firewall, the simple brute force solution to block "undesired" internet traffic is to send TCP RST packets when users try to connect to "undesired" computers. Each country controls ingress and egress of the internet to other countries (the most extreme example is North Korea).
 
-23\. If a cryptocurrency is made illegal, some will be able to workaround it. They'll know the right chat group to find the latest set of IP addresses to connect to. They'll know the right wallet to use that has the latest countermeasures. They'll know the right VPN to connect through. However, this will all be very limited to a small set of very motivated and risk-tolerant people. This is similar to how Tor *can* work in China today, but it's extremely difficult. This goes back to point 20 that if one values money laundering their wealth significantly, cryptocurrencies may help although with significant risk.
+23\. If a cryptocurrency is made illegal, some will be able to work around that. They'll know the right chat group to find the latest set of IP addresses to connect to. They'll know the right wallet to use that has the latest countermeasures. They'll know the right VPN to connect through. However, this will all be very limited to a small set of very motivated and risk-tolerant people. This is similar to how Tor *can* work in China today, but it's extremely difficult. This goes back to point 20 that if one values money laundering their wealth significantly, cryptocurrencies may help although with significant risk.
 
 ## Critique 4: The Primrose Path
 
 24\. Shakespeare has a famous literary device called The Primrose Path. The path is decorated pleasantly with primroses that tricks a character to go down the path which leads to a bad place.
 
-25\. The analogy here is that cryptocurrencies, whether by design or usurpration, and despite any good intentions, may lead the world into monetary dystopianism without even the relative freedom of silver, gold, and cash. Cryptocurrencies may be normalizing thought leaders and institutions to accept a Central Bank Digital Currency, a global digital currency, or one or more governments may simply take over the most popular digital currency, assert majority, and modify it to its needs. Cryptocurrencies may inadvertently kill or significantly reduce the value of legitimately decentralized alternatives such as silver, gold, and cash (despite their flaws).
+25\. The analogy here is that cryptocurrencies, whether by design or usurpration, and despite any good intentions, may lead the world into monetary, dystopian panopticon without even the relative freedom of silver, gold, and cash. Cryptocurrencies may be normalizing thought leaders, institutions, and the general public to accept a Central Bank Digital Currency, a global digital currency, or one or more governments may simply take over the most popular digital currency, assert majority, and modify it to its needs. Cryptocurrencies may inadvertently kill or significantly reduce the value of legitimately decentralized alternatives such as silver, gold, and cash (despite their flaws).
 
 ## Summary
 
@@ -71,9 +71,9 @@ If the above are legitimate critiques, then what is an ancap to do?
 My opinions: If you go into cryptocurrencies, go into them with an accurate view of reality:
 
 1. Public ledger cryptocurrencies are not decentralized; they're political and democratic.
-2. Private ledger cryptocurrencies are infeasible.
+2. Private ledger cryptocurrencies are currently infeasible.
 3. Cryptocurrencies are nothing magical. Governments' brute forces can manipulate, usurp, or crash them (although unlikely to 0).
-2. Cryptocurrencies might help you launder money (yes, that's how governments will see it) which can be high risk.
+2. Cryptocurrencies might help you launder money (that's how governments will see it) which can be high risk.
 3. Cryptocurrencies are not likely revolutionary and might make things worse.
 
 As far as how to act in a world with such realities and what to do with one's money, that depends on various individual factors and risk tolerance, but it seems that money is not the path to political freedom.
