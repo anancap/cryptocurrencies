@@ -30,7 +30,7 @@
 
 13\. Cryptocurrency advocates hope that a combination of technical countermeasures, game theory, and market incentives will disallow governments from asserting control as they did with gold and silver.
 
-14\. Likely the most important technical countermeasure is that blockchains can "fork". What forking means is that, if government(s) take over majority enforcement of a cryptocurrency, honest nodes can split off and continue their ledger and users can choose to connect to the honest fork instead of the government fork.
+14\. Likely the most important technical countermeasure is that blockchains can "fork". What forking means is that, if government(s) take over majority enforcement of a cryptocurrency, honest nodes can split off and continue their ledger and users can connect to the honest fork instead of the government fork.
 
 ## Critique 1: Cryptocurrencies are not decentralized
 
@@ -46,7 +46,7 @@
 
 19\. Some ancaps advocate for political action in the context of a political democracy (e.g. to retard the growth of government or fight to take back some freedoms); participating in majoritarian cryptocurrencies will be similar.
 
-20\. One counter-argument would be to hope for a cryptocurrency to never become mainstream successful and to achieve an equilibrium where the maintainers of the cryptocurrency have no incentive to manipulate it. In this case, it likely becomes a black market currency that is potentially useful for laundering money. This is an individual approach, but wouldn't achieve stated grandiose, society-changing goals of many ancap advocates, and isn't very different than other money laundering techniques (e.g. art), and might be more risky.
+20\. One counter-argument would be to hope for a cryptocurrency to never become mainstream successful and to achieve an equilibrium where the maintainers of the cryptocurrency have no incentive to manipulate it. In this case, it essentially becomes a black market currency that is potentially useful for laundering money. This is an individual approach, but wouldn't achieve stated grandiose, society-changing goals of many ancap advocates, and isn't very different than other money laundering techniques (e.g. art), and might be more risky.
 
 21\. One alternative might be private-property ledgers which are not subject to the majoritarian requirement. A healthy, competitive market of private-property ledger cryptocurrencies is likely what would exist in an ancap world; however, in today's world, it is unlikely to work due to governments' comprehensive and coordinated control of underlying physical land (see point 10).
 
