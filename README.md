@@ -1,7 +1,5 @@
 # An Ancap's Critiques of All Cryptocurrencies
 
-Numbered for reference.
-
 ## Introduction
 
 1\. Before money, humans bartered. A horse for a cow, etc.
@@ -30,7 +28,7 @@ Numbered for reference.
 
 13\. To achieve consensus of the correct ledger without trust, a majority must approve transactions ([Fischer et al., 1985](https://doi.org/10.1145/3149.214121)). This is done through various mechanisms such as proof-of-work, proof-of-stake, etc. ([Xiao et al., 2020](https://doi.org/10.1109/COMST.2020.2969706)). Bitcoin, the most popular cryptocurrency, states this majoritarian requirement simply: "If a majority of CPU power is controlled by honest nodes" ([Nakamoto, 2008](https://bitcoin.org/bitcoin.pdf)). Similar majoritarian requirements apply to **all** cryptocurrencies with a public ledger ([Fischer et al., 1985](https://doi.org/10.1145/3149.214121)). The so-called "50%+1" problem is not just about double-spending, but applies to the entire cryptocurrency, including its protocol.
 
-13\. Cryptocurrencies hope that a combination of technical countermeasures and market incentives will disallow governments from asserting control as they did with gold and silver.
+13\. Cryptocurrency advocates hope that a combination of technical countermeasures, game theory, and market incentives will disallow governments from asserting control as they did with gold and silver.
 
 14\. Likely the most important technical countermeasure is that blockchains can "fork". What forking means is that, if government(s) take over majority enforcement of a cryptocurrency, honest nodes can split off and continue their ledger and users can choose to connect to the honest fork instead of the government fork.
 
