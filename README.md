@@ -10,7 +10,7 @@
 
 4\. The value of money depended on the supply and demand of the money itself, as with anything else in a market.
 
-5\. In some cases, banks or governments issued paper money that was convertible to the underlying money. Someone could go to the issuer and exchange a paper money note for an equivalent amount of gold, for example. Thus, paper money substituted for the underlying money.
+5\. Banks or governments issued paper money that was convertible to the underlying money. Someone could go to the issuer and exchange a paper money note for an equivalent amount of gold, for example. Thus, paper money substituted for the underlying money. At some point, governments broke this convertibility. They started simply printing money by decree or "by fiat" (from Latin: "let it be done"). Governments created laws (legal tender laws) requiring the use of such money for payments, taxes, etc.
 
 6\. Digital money is similar to paper money except even easier to create.
 
@@ -22,7 +22,7 @@
 
 10\. Less corrupted money such as gold still has significant worldwide value (as of 2022, [about $10 trillion](https://www.forbes.com/sites/stevenehrlich/2021/12/28/six-numbers-that-defined-cryptos-record-year/)); however, it's heavy, taxed, hard to transport across borders due to metal detectors, [has been made illegal](https://en.wikipedia.org/wiki/Executive_Order_6102) over certain amounts in the past, and the market value of gold is likely manipulated by governments. Companies that tried to restore less corrupted money with modern digital conveniences have faced legal consequences (e.g. [E-gold](https://en.wikipedia.org/wiki/E-gold), [Goldmoney](https://www.bbc.com/news/world-europe-jersey-57357523), etc.) due to governments' comprehensive and coordinated control of underlying physical land.
 
-11\. Cryptocurrencies attempt to create less corrupted money. They are primarily digital. Their supply is simply asserted ("by fiat"; Latin, "let it be done"). They use a ledger to perform transactions. The ledger is a chain connecting transactions together that can be verified mathematically using cryptography; this is called a blockchain. Most commonly, this ledger is distributed across many computers without any required trust.
+11\. Cryptocurrencies attempt to create less corrupted money. They are primarily digital. Their supply is simply asserted by fiat. They use a ledger to perform transactions. The ledger is a chain connecting transactions together that can be verified mathematically using cryptography; this is called a blockchain. Most commonly, this ledger is distributed across many computers without any required trust.
 
 12\. Cryptocurrencies have essentially no weight and they're easy to "take" across borders as one only needs a small digital file that can fit on a USB stick (or stored on a remote computer), and a short password.
 
