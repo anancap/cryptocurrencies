@@ -26,7 +26,7 @@
 
 12\. Cryptocurrencies have essentially no weight and they're easy to "take" across borders as one only needs a small digital file that can fit on a USB stick (or stored on a remote computer), and a short password.
 
-13\. To achieve consensus of the correct ledger without trust, a majority must approve transactions ([Fischer et al., 1985](https://doi.org/10.1145/3149.214121)). This is done through various mechanisms such as proof-of-work, proof-of-stake, etc. ([Xiao et al., 2020](https://doi.org/10.1109/COMST.2020.2969706)). Bitcoin, the most popular cryptocurrency, states this majoritarian requirement simply: "If a majority of CPU power is controlled by honest nodes" ([Nakamoto, 2008](https://bitcoin.org/bitcoin.pdf)). Similar majoritarian requirements apply to **all** cryptocurrencies with a public ledger ([Fischer et al., 1985](https://doi.org/10.1145/3149.214121)). The so-called "50%+1" majority control problem is not just about how to ensure consistency (e.g. avoid double-spending), but applies to the entire cryptocurrency, including its protocol (i.e. how it works).
+13\. To achieve consensus of the correct ledger without trust, a majority must approve transactions¹. This is done through various mechanisms such as proof-of-work, proof-of-stake, etc. ([Xiao et al., 2020](https://doi.org/10.1109/COMST.2020.2969706)). Bitcoin, the most popular cryptocurrency, states this majoritarian requirement simply: "If a majority of CPU power is controlled by honest nodes" ([Nakamoto, 2008](https://bitcoin.org/bitcoin.pdf)). Similar majoritarian requirements apply to **all** cryptocurrencies with a public ledger¹. The so-called "50%+1" majority control problem is not just about how to ensure consistency (e.g. avoid double-spending), but applies to the entire cryptocurrency, including its protocol (i.e. how it works).
 
 13\. Cryptocurrency advocates hope that a combination of technical countermeasures, game theory, and market incentives will disallow governments from asserting control as they did with gold and silver.
 
@@ -87,3 +87,7 @@ The alternatives to the Primrose Path are steep and thorny, but worth exploring.
 > And recks not his own rede.
 
 *Hamlet*, Shakespeare
+
+---
+
+¹: [Fischer et al. (1985)](https://doi.org/10.1145/3149.214121) shows deterministic, asynchronous processes can't reach consensus with even one dishonest node. Paxos & Rift work using timeouts but this doesn't work for dishonest nodes as per the Byzantine Generals Problem in [Lamport et al. (1982)](https://doi.org/10.1145/3335772.3335936). This can be solved  with `3x + 1` honest nodes if there are `x` dishonest nodes, but that only works in a synchronous environment ([Dwork et al. (1988)](https://doi.org/10.1145/42282.42283) and [Castro et al. (2002)](https://doi.org/10.1145/571637.571640) proposed improvements but with impractical limitations). Nakamoto Consensus proposes a non-deterministic solution but again requires majority.
